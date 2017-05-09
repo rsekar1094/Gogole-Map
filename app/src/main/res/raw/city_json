@@ -1,0 +1,137 @@
+[
+  {
+    "state": "Alaska",
+    "latitude": 61.3850,
+    "longitude": -152.2683
+  },
+  {
+    "state": "Alabama",
+    "latitude": 32.7990,
+    "longitude": -86.8073
+  },
+  {
+    "state": "Arkansas",
+    "latitude": 34.9513,
+    "longitude": -92.3809
+  },
+  {
+    "state": "Arizona",
+    "latitude": 33.7712,
+    "longitude": -111.3877
+  },
+  {
+    "state": "California",
+    "latitude": 36.1700,
+    "longitude": -119.7462
+  },
+  {
+    "state": "Colorado",
+    "latitude": 39.0646,
+    "longitude": -105.3272
+  },
+  {
+    "state": "Connecticut",
+    "latitude": 41.5834,
+    "longitude": -72.7622
+  },
+  {
+    "state": "Maharashtra",
+    "latitude": 18.975,
+    "longitude": 72.825833
+  },
+  {
+    "state": "Delhi",
+    "latitude": 28.666667,
+    "longitude": 77.216667
+  },
+  {
+    "state": "Karnataka",
+    "latitude": 12.983333,
+    "longitude": 77.583333
+  },
+  {
+    "state": "Telangana",
+    "latitude": 17.375278,
+    "longitude": 78.474444
+  },
+  {
+    "state": "Gujarat",
+    "latitude": 23.033333,
+    "longitude": 72.616667
+  },
+  {
+    "state": "Tamil Nadu",
+    "latitude": 13.083333,
+    "longitude": 80.283333
+  },
+  {
+    "state": "West Bengal",
+    "latitude": 22.569722,
+    "longitude": 88.369722
+  },
+  {
+    "state": "Gujarat",
+    "latitude": 20.966667,
+    "longitude": 72.9
+  },
+  {
+    "state": "Maharashtra",
+    "latitude": 18.533333,
+    "longitude": 73.866667
+  },
+  {
+    "state": "Rajasthan",
+    "latitude": 24.583333,
+    "longitude": 86.85
+  },
+  {
+    "state": "Uttar Pradesh",
+    "latitude": 26.85,
+    "longitude": 80.916667
+  },
+  {
+    "state": "Minnesota",
+    "latitude": 45.7326,
+    "longitude": -93.9196
+  },
+  {
+    "state": "Missouri",
+    "latitude": 38.4623,
+    "longitude": -92.3020
+  },
+  {
+    "state": "Mississippi",
+    "latitude": 32.7673,
+    "longitude": -89.6812
+  },
+  {
+    "state": "Montana",
+    "latitude": 46.9048,
+    "longitude": -110.3261
+  },
+  {
+    "state": "North Carolina",
+    "latitude": 35.6411,
+    "longitude": -79.8431
+  },
+  {
+    "state": "North Dakota",
+    "latitude": 47.5362,
+    "longitude": -99.7930
+  },
+  {
+    "state": "Nebraska",
+    "latitude": 41.1289,
+    "longitude": -98.2883
+  },
+  {
+    "state": "New Hampshire",
+    "latitude": 43.4108,
+    "longitude": -71.5653
+  },
+  {
+    "state": "New Jersey",
+    "latitude": 40.3140,
+    "longitude": -74.5089
+  }
+]
